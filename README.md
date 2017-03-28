@@ -6,7 +6,7 @@ CoMagic php client for:
 ## Installation
 To get started, install package via the Composer package manager:
 
-`composer require pashamesh/comagic-api`
+`composer require zpearl/comagic-api`
 
 ## Usage
 
