@@ -1,5 +1,5 @@
 {
-    "name": "pashamesh/comagic-api",
+    "name": "zpearl/comagic-api",
     "description": "php binding for CoMagic API",
     "type": "library",
     "require": {
@@ -13,8 +13,8 @@
     },
     "authors": [
         {
-            "name": "Pasha Mesh",
-            "email": "pasha.mesh@gmail.com"
+            "name": "Eugen Pestov",
+            "email": "zpearl80@gmail.com"
         }
     ]
 }
